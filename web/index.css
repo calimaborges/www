@@ -1,0 +1,16 @@
+body {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+app-logo {
+    animation: fade-in-up 0.6s ease-out forwards;
+    opacity: 0;
+}
+
+app-menu {
+    animation: fade-in-down 0.6s ease-out forwards;
+    opacity: 0;
+}

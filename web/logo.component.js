@@ -5,7 +5,7 @@ class Logo extends HTMLElement {
     }
 
     async connectedCallback() {
-	const response = await fetch("./logo.tpl.html");
+	const response = await fetch("/logo.tpl.html");
 	const html = await response.text();
 	this.shadowRoot.innerHTML = html;
     }

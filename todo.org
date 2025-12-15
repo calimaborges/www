@@ -1,9 +1,10 @@
 * Carlos Borges Website
 
-** To Do
-*** DONE Fade in components on enter
-*** DONE Change the selection color
-*** DONE Create basic logo and text web components
-*** DONE Gradient background color
-*** DONE Add favicon
-*** TODO Deploy website
+** DONE Fade in components on enter
+** DONE Change the selection color
+** DONE Create basic logo and text web components
+** DONE Gradient background color
+** DONE Add favicon
+** DONE Deploy website
+** DONE Notes route
+** TODO List notes
