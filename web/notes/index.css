@@ -6,9 +6,19 @@ body {
 
 header {
     display: flex;
-    align-items: center;
     justify-content: space-between;
-    gap: 2rem;
-    width: 100%;
-    padding: 0 1rem;
+    align-items: center;
+    width: 650px;
+}
+
+@media (max-width: 700px) {
+    header {
+        flex-direction: column;
+	justify-content: center;
+        width: 100%;
+    }
+
+    app-logo {
+	--logo-size: 1rem;
+    }
 }

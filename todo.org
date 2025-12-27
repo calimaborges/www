@@ -8,6 +8,6 @@
 ** DONE Deploy website
 ** DONE Notes route
 ** DONE Deploy www to carlosborges.dev
-** TODO Fix www.carlosborges.dev certificate issue
-** TODO Fix layout in smaller devices
+** DONE Fix www.carlosborges.dev certificate issue
+** DONE Fix layout in smaller devices
 ** TODO List notes
